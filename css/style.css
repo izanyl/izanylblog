@@ -190,7 +190,7 @@ figure figcaption {
 }
 #fh5co-aside #fh5co-main-menu ul li a:hover {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: #0291a1;
 }
 #fh5co-aside #fh5co-main-menu ul li a:hover:after {
   visibility: visible;
@@ -745,6 +745,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   -ms-transform: scale(1);
   -o-transform: scale(1);
   transform: scale(1);
+  
 }
 
 .work {
